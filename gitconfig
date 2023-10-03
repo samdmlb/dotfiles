@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = samuel.dmlb@gmail.com
+	name = Samuel Demolombe
